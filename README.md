@@ -1,28 +1,26 @@
-# WeatheOnVue
+Простое веб-приложение на Vue Js с минимальным дизайном, созданное в целях демонстрации работы Vue и использования API сервиса openweather. 
+Пользователь может посмотреть погоду, температуру, место, которое он ввёл и дату запроса. 
+Локальная память не задействована. 
 
-This template should help get you started developing with Vue 3 in Vite.
+# Инструкция по запуску приложения
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
+## Нужный редактор кода и расширение в нём
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Project Setup
+
+
+## Шаги, нужные для работы самого проекта:
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
 ```sh
 npm run dev
 ```
-
-### Compile and Minify for Production
 
 ```sh
 npm run build
